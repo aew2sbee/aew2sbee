@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-## Top Languages Card
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aew2sbee&count_private=true&theme=dark)
-
-## GitHub Stats Card
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=aew2sbee&count_private=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aew2sbee&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aew2sbee&count_private=true&theme=dark" />
+</a>
 
 <!--
 **aew2sbee/aew2sbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
