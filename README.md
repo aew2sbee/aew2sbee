@@ -1,1 +1,1 @@
-- Zenn(エンジニアのための情報共有コミュニティ): https://zenn.dev/aew2sbee
+- Zenn (エンジニアのための情報共有コミュニティ): https://zenn.dev/aew2sbee
