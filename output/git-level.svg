@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="180" viewBox="0 0 430 180"><defs><style>
+  .bg { fill: #282a36; }
+  .main-color { fill: #f8f8f2; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .username { font-size: 14px; font-weight: 400; opacity: 0.8; }
+  .level-label { font-size: 12px; font-weight: 700; letter-spacing: 1px; }
+  .level-value { font-size: 56px; font-weight: 900; }
+  .rank-label { font-size: 18px; font-weight: 600; font-style: italic; }
+  .stat-sub { font-size: 11px; opacity: 0.7; }
+  .progress-bg { fill: #44475a; rx: 4; }
+  .progress-fill { fill: #f8f8f2; rx: 4; }
+</style></defs><rect width="100%" height="100%" class="bg"></rect><text x="25" y="30" class="main-color username">@aew2sbee</text><text x="215" y="85" class="main-color level-value" text-anchor="middle">5</text><text x="170" y="85" class="main-color level-label" text-anchor="end">Lv.</text><text x="215" y="115" class="main-color rank-label" text-anchor="middle">Aspiring Developer</text><rect x="95" y="135" width="240" height="8" class="progress-bg"></rect><rect x="95" y="135" width="189.16458767772514" height="8" class="progress-fill"></rect><text x="215" y="157" class="main-color stat-sub" text-anchor="middle">Next: 51,971 / 65,937.5 Bytes</text></svg>
