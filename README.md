@@ -1,8 +1,3 @@
-## 🌱 Git level
-<div align="center">
-  <img src="./output/git-level.svg" alt="stats" />
-</div>
-
 ## 🌱 Most Used Languages
 <div align="center">
   <img src="./output/top6_lang.svg" alt="stats" />
