@@ -11,5 +11,6 @@
 </div>
 
 ## 🌱 資格
+- 2026/08: AWS Certified Cloud Practitioner
 - 2025/12: IPA 基本情報技術者試験
 - 2025/05: IPA 情報セキュリティマネジメント試験
