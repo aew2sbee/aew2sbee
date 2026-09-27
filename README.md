@@ -8,7 +8,7 @@
 ## 🌱 読書履歴
 <div align="center">
   <a href="https://zenn.dev/aew2sbee/books/book-record-of-reading">
-    <img src="./images/book-record-of-reading.png" alt="わたしなりの読了記録まとめ" width="450"/>
+    <img src="./images/book-record-of-reading.png" alt="わたしなりの読書メモまとめ" width="450"/>
   </a>
 </div>
 
