@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## 🌱 わたしなりの読書メモ
+## 🌱 読書メモ
 <div align="center">
   <a href="https://zenn.dev/aew2sbee/books/book-record-of-reading">
     <img src="./images/book-record-of-reading.png" alt="わたしなりの読書メモまとめ" width="450"/>
