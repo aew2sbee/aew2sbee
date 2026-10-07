@@ -12,6 +12,13 @@
   </a>
 </div>
 
+## 🌱 もぐら けんせつ めいろ(3歳向けの迷路アプリ)
+<div align="center">
+  <a href="https://aew2sbee.github.io/working-cars-maze/">
+    <img src="./images/mogura-kensetsu-meiro.png" alt="もぐら けんせつ めいろ" width="450"/>
+  </a>
+</div>
+
 ## 🌱 資格
 - 2026/08: AWS Certified Cloud Practitioner
 - 2025/12: IPA 基本情報技術者試験
